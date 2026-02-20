@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=Production-First%20AI%20Engineer&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=Aspiring-Data%20Scientist%20.&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 ---
@@ -20,9 +20,8 @@
 # 🧠 About Me
 
 🎓 Pre-Final Year Student @ **KNIT Sultanpur**  
-🚀 Aspiring **Machine Learning Engineer & AI Systems Builder**  
-🧩 Strong focus on **RAG, LLM Applications, and MLOps Pipelines**  
-
+🚀 Aspiring **Data Scientist & AI Systems Builder**  
+ 
 I don’t just train models —  
 I design, containerize, and deploy **production-grade AI systems**.
 
