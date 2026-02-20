@@ -1,18 +1,106 @@
-# 💫 About Me:
- Hey 👋<br>I am a pre-final year student @ KNIT Sultanpur, an aspiring Data Scientist passionate about Machine Learning and Deep Learning. I have hands-on familiarity with MySQL, LangChain, and MLOps, and I enjoy applying data-driven approaches to solve real-world problems.<br><br>Please feel free to explore the repositories — built and maintained with love ❤️<br>Thanks for stopping by! ✨
+<!-- ======================== HEADER ======================== -->
 
+<h1 align="center">Hi 👋 I'm Adarsh Singh</h1>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_aa10sh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Adarsh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@asur_27) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adarshshahpur60@gmail.com) 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Machine+Learning+Engineer+in+Making;RAG+%7C+MLOps+%7C+AI+Systems+Builder;I+Build+Production-Ready+AI+Applications;FastAPI+%7C+Docker+%7C+AWS+%7C+LangChain" 
+      alt="Typing SVG" 
+    />
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aa10sh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aa10sh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aa10sh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=Production-First%20AI%20Engineer&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aa10sh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🧠 About Me
+
+🎓 Pre-Final Year Student @ **KNIT Sultanpur**  
+🚀 Aspiring **Machine Learning Engineer & AI Systems Builder**  
+🧩 Strong focus on **RAG, LLM Applications, and MLOps Pipelines**  
+
+I don’t just train models —  
+I design, containerize, and deploy **production-grade AI systems**.
+
+I believe every real-world problem can be mapped to a scalable technical solution with clarity and engineering discipline.
+
+---
+
+# 💼 What I Bring
+
+✔ End-to-End ML Pipelines  
+✔ Retrieval-Augmented Generation (RAG) Systems  
+✔ Dockerized AI Applications  
+✔ FastAPI-based Scalable Backends  
+✔ CI/CD + Cloud Deployment (AWS)  
+✔ Clean, Modular Architecture  
+
+---
+
+# ⚡ Tech Stack
+
+### 🧠 Machine Learning
+![Python](https://img.shields.io/badge/Python-0f2027?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0f2027?style=for-the-badge&logo=TensorFlow&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/PyTorch-0f2027?style=for-the-badge&logo=PyTorch&logoColor=EE4C2C)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0f2027?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![LangChain](https://img.shields.io/badge/LangChain-0f2027?style=for-the-badge)
+
+---
+
+### ⚙️ Backend & Systems
+![FastAPI](https://img.shields.io/badge/FastAPI-0f2027?style=for-the-badge&logo=fastapi&logoColor=00C7B7)
+![Flask](https://img.shields.io/badge/Flask-0f2027?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0f2027?style=for-the-badge&logo=docker&logoColor=0db7ed)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0f2027?style=for-the-badge&logo=kubernetes&logoColor=326ce5)
+![AWS](https://img.shields.io/badge/AWS-0f2027?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+
+---
+
+### 📊 Data & Databases
+![Pandas](https://img.shields.io/badge/Pandas-0f2027?style=for-the-badge&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-0f2027?style=for-the-badge&logo=numpy&logoColor=013243)
+![MySQL](https://img.shields.io/badge/MySQL-0f2027?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0f2027?style=for-the-badge&logo=mongodb&logoColor=4ea94b)
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aa10sh&theme=tokyonight&hide_border=true&show_icons=true" height="170"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=aa10sh&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aa10sh&theme=tokyonight&hide_border=true&layout=compact" height="170"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/Adarsh">
+    <img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  <a href="mailto:adarshshahpur60@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  </a>
+</p>
+
+---
+
+# 🚀 Career Goal
+
+To engineer scalable AI systems that bridge research and real-world deployment.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer"/>
+</p>
