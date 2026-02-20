@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=An-Aspiring%20Data%20Scientist&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=An Aspiring%20Data%20Scientist&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 ---
@@ -26,9 +26,7 @@ I don’t just train models —
 I design, containerize, and deploy **production-grade AI systems**.
 
 I believe every real-world problem can be mapped to a scalable technical solution with clarity and engineering discipline.
-
 ---
-
 # 💼 What I Bring
 
 ✔ End-to-End ML Pipelines  
@@ -69,7 +67,6 @@ I believe every real-world problem can be mapped to a scalable technical solutio
 ---
 
 # 📊 GitHub Analytics
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aa10sh&theme=tokyonight&hide_border=true&show_icons=true" height="170"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=aa10sh&theme=tokyonight&hide_border=true" height="170"/>
@@ -82,10 +79,15 @@ I believe every real-world problem can be mapped to a scalable technical solutio
 ---
 
 # 🌐 Connect With Me
-
 <p align="center">
-  <a href="https://linkedin.com/in/Adarsh">
+  <a href="https://www.linkedin.com/in/adarsh60/">
     <img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  <a href="https://x.com/asur_27">
+    <img src="https://img.shields.io/badge/X-0f2027?style=for-the-badge&logo=X&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/_aa10sh">
+    <img src="https://img.shields.io/badge/Instagram-0f2027?style=for-the-badge&logo=Instagram&logoColor=E4405F"/>
   </a>
   <a href="mailto:adarshshahpur60@gmail.com">
     <img src="https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
@@ -93,13 +95,9 @@ I believe every real-world problem can be mapped to a scalable technical solutio
 </p>
 
 ---
-
 # 🚀 Career Goal
-
 To engineer scalable AI systems that bridge research and real-world deployment.
-
 ---
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer"/>
 </p>
