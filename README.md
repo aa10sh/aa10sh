@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=Aspiring-Data%20Scientist%20.&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=An-Aspiring%20Data%20Scientist&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 ---
