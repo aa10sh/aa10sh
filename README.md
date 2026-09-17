@@ -1,6 +1,6 @@
 <!-- ======================== HEADER ======================== -->
 
-<h1 align="center">Hi 👋 I'm Adarsh Singh</h1>
+<h1 align="center">Hi, I'm Adarsh Singh</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -17,17 +17,17 @@
 
 ---
 
-# 🧠 About Me
+#  About Me
 
-🎓 Pre-Final Year Student @ **KNIT Sultanpur**  
-🚀 Aspiring **Data Scientist & AI Systems Builder**  
+ Pre-Final Year Student @ **KNIT Sultanpur**  
+ Aspiring **Data Scientist & AI Systems Builder**  
  
 I don’t just train models —  
 I design, containerize, and deploy **production-grade AI systems**.
 
 I believe every real-world problem can be mapped to a scalable technical solution with clarity and engineering discipline.
 ---
-# 💼 What I Bring
+#  What I Bring
 
 ✔ End-to-End ML Pipelines  
 ✔ Retrieval-Augmented Generation (RAG) Systems  
@@ -38,9 +38,9 @@ I believe every real-world problem can be mapped to a scalable technical solutio
 
 ---
 
-# ⚡ Tech Stack
+#  Tech Stack
 
-### 🧠 Machine Learning
+###  Machine Learning
 ![Python](https://img.shields.io/badge/Python-0f2027?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0f2027?style=for-the-badge&logo=TensorFlow&logoColor=FF6F00)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0f2027?style=for-the-badge&logo=PyTorch&logoColor=EE4C2C)
@@ -49,7 +49,7 @@ I believe every real-world problem can be mapped to a scalable technical solutio
 
 ---
 
-### ⚙️ Backend & Systems
+###  Backend & Systems
 ![FastAPI](https://img.shields.io/badge/FastAPI-0f2027?style=for-the-badge&logo=fastapi&logoColor=00C7B7)
 ![Flask](https://img.shields.io/badge/Flask-0f2027?style=for-the-badge&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0f2027?style=for-the-badge&logo=docker&logoColor=0db7ed)
@@ -58,7 +58,7 @@ I believe every real-world problem can be mapped to a scalable technical solutio
 
 ---
 
-### 📊 Data & Databases
+###  Data & Databases
 ![Pandas](https://img.shields.io/badge/Pandas-0f2027?style=for-the-badge&logo=pandas&logoColor=150458)
 ![NumPy](https://img.shields.io/badge/NumPy-0f2027?style=for-the-badge&logo=numpy&logoColor=013243)
 ![MySQL](https://img.shields.io/badge/MySQL-0f2027?style=for-the-badge&logo=mysql&logoColor=4479A1)
@@ -66,7 +66,7 @@ I believe every real-world problem can be mapped to a scalable technical solutio
 
 ---
 
-# 📊 GitHub Analytics
+#  GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aa10sh&theme=tokyonight&hide_border=true&show_icons=true" height="170"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=aa10sh&theme=tokyonight&hide_border=true" height="170"/>
@@ -78,7 +78,7 @@ I believe every real-world problem can be mapped to a scalable technical solutio
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/adarsh60/">
     <img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
@@ -95,7 +95,7 @@ I believe every real-world problem can be mapped to a scalable technical solutio
 </p>
 
 ---
-# 🚀 Career Goal
+#  Career Goal
 To engineer scalable AI systems that bridge research and real-world deployment.
 ---
 <p align="center">
