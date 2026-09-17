@@ -19,13 +19,12 @@
 
 #  About Me
 
- Pre-Final Year Student @ **KNIT Sultanpur**  
+ Final Year Student @ **KNIT Sultanpur**  
  Aspiring **Data Scientist & AI Systems Builder**  
  
 I don’t just train models —  
 I design, containerize, and deploy **production-grade AI systems**.
 
-I believe every real-world problem can be mapped to a scalable technical solution with clarity and engineering discipline.
 ---
 #  What I Bring
 
